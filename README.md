@@ -1,101 +1,133 @@
 
-<div align="center">
 
-# ✨ MY TECHNICAL WRITING PORTFOLIO ✨
+# TECHNICAL WRITING PORTFOLIO
 
-### LEARN • CREATE • DOCUMENT • SHARE
+### My Digital Learning Journey
 
-**A Journey Through Technical Tools and Documentation**
+**Learn | Create | Document | Share**
 
----
+Welcome to my Technical Writing Portfolio. This repository contains the documentation, practical work, and learning outcomes from my Technical Writing course.
 
-![LaTeX](https://img.shields.io/badge/LaTeX-Document_Typesetting-blue)
-![Beamer](https://img.shields.io/badge/Beamer-Presentations-orange)
-![Doxygen](https://img.shields.io/badge/Doxygen-Documentation-green)
-![Google Docs](https://img.shields.io/badge/Google_Docs-Productivity-yellow)
-![GitHub](https://img.shields.io/badge/GitHub-Version_Control-black)
-![Markdown](https://img.shields.io/badge/Markdown-Documentation-purple)
-
-</div>
+The portfolio covers five important tools and technologies used for creating professional documents, presentations, software documentation, and collaborative projects.
 
 ---
 
-## 🌷 WELCOME!
+## About This Repository
 
-Welcome to my Technical Writing Portfolio!
+This repository is a collection of my learning and practical work throughout the Technical Writing course. Each topic is documented separately to make the content organised, easy to understand, and accessible.
 
-This repository is a collection of my learning, practical knowledge and documentation skills developed throughout my Technical Writing course.
+## Contents
 
-It showcases five important tools used for professional document preparation, presentation design, software documentation and collaborative project management.
+### 01. LaTeX
+
+[Explore LaTeX Documentation](01-LATEX/LaTeX-Documentation.md)
+
+- Introduction to LaTeX
+- Document structure and formatting
+- Mathematical equations
+- Tables, images, and references
+- Bibliography and citations
+
+### 02. Beamer
+
+[Explore Beamer Documentation](02-BEAMER/Beamer-Presentation.md)
+
+- Introduction to Beamer
+- Creating presentation slides
+- Frames, themes, and layouts
+- Images, tables, and equations
+- Overlays and animations
+
+### 03. Doxygen
+
+[Explore Doxygen Documentation](03-DOXYGEN/Doxygen-Documentation.md)
+
+- Introduction to Doxygen
+- Documentation comments
+- Documenting functions and classes
+- Configuration using Doxyfile
+- Generating HTML documentation
+
+### 04. Google Docs
+
+[Explore Google Docs Guide](04-GOOGLE-DOCS/Google-Docs-Guide.md)
+
+- Creating and formatting documents
+- Styles, tables, and images
+- Collaboration and sharing
+- Comments and suggestions
+- Version history and exporting
+
+### 05. Git and GitHub
+
+[Explore Git and GitHub Guide](05-GIT-AND-GITHUB/Git-GitHub-Guide.md)
+
+- Introduction to Git and GitHub
+- Repository creation and management
+- Essential Git commands
+- Branching and merging
+- Pushing projects to GitHub
 
 ---
 
-## 📚 EXPLORE THE MODULES
+## Learning Objectives
 
-| Module | Topic | Documentation |
-|:---:|---|---|
-| 01 | 📘 LaTeX | [Explore LaTeX](01-LATEX/LaTeX-Documentation.md) |
-| 02 | 🎨 Beamer | [Explore Beamer](02-BEAMER/Beamer-Presentation.md) |
-| 03 | 📚 Doxygen | [Explore Doxygen](03-DOXYGEN/Doxygen-Documentation.md) |
-| 04 | 📝 Google Docs | [Explore Google Docs](04-GOOGLE-DOCS/Google-Docs-Guide.md) |
-| 05 | 🐙 Git & GitHub | [Explore Git & GitHub](05-GIT-AND-GITHUB/Git-GitHub-Guide.md) |
+Through this course, I aim to:
 
----
+- Understand the fundamentals of technical writing.
+- Create structured and professional documents.
+- Design presentations using LaTeX Beamer.
+- Generate software documentation using Doxygen.
+- Collaborate and manage documents using Google Docs.
+- Understand version control using Git and GitHub.
 
-## 🎯 OBJECTIVES
+## Tools and Technologies
 
-- Understand professional document preparation.
-- Learn mathematical typesetting.
-- Create structured presentations.
-- Generate software documentation.
-- Develop professional digital documents.
-- Understand version control and collaboration.
-- Build an organised technical portfolio.
+| Tool | Purpose |
+|---|---|
+| LaTeX | Document preparation |
+| Beamer | Presentation creation |
+| Doxygen | Software documentation |
+| Google Docs | Online document collaboration |
+| Git | Version control |
+| GitHub | Repository hosting |
 
-## 🛠️ TOOLS & TECHNOLOGIES
-
-- LaTeX
-- Beamer
-- Doxygen
-- Google Docs
-- Git
-- GitHub
-- Visual Studio Code
-- Markdown
-
-## 🌱 MY LEARNING JOURNEY
-
-This portfolio reflects my progress in understanding different technical tools and applying them through practical examples and documentation.
-
-Each module contains concepts, important commands, examples, workflows and learning outcomes.
-
-## 📂 REPOSITORY STRUCTURE
+## Repository Structure
 
 ```text
 TECHNICAL-WRITING-PORTFOLIO/
 │
 ├── README.md
+├── CHANGELOG.md
+│
 ├── 01-LATEX/
+│   └── LaTeX-Documentation.md
+│
 ├── 02-BEAMER/
+│   └── Beamer-Presentation.md
+│
 ├── 03-DOXYGEN/
+│   └── Doxygen-Documentation.md
+│
 ├── 04-GOOGLE-DOCS/
+│   └── Google-Docs-Guide.md
+│
 ├── 05-GIT-AND-GITHUB/
-├── images/
-└── CHANGELOG.md
+│   └── Git-GitHub-Guide.md
+│
+└── images/
 ```
 
-## 💡 MY LEARNING PHILOSOPHY
+## My Learning Journey
 
-> Good technical writing is not just about writing information. It is about presenting knowledge in a clear, structured and understandable way.
+This portfolio represents my progress in learning different tools used in technical writing. Each section contains explanations, examples, commands, and practical applications that helped me understand the topics.
+
+I will continue improving this repository as I learn more.
 
 ---
 
-<div align="center">
+## Thank You for Visiting!
 
-### THANK YOU FOR VISITING! 💗
+Thank you for exploring my Technical Writing Portfolio.
 
-*Designed with curiosity, creativity and continuous learning.*
-
-**TECHNICAL WRITING PORTFOLIO | 2026**
-
-</div>
+**Technical Writing Portfolio | 2026**
